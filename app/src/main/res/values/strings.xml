@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">CiberSeguridadParaTodos</string>
+    <string name="hint_username">Usuario</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="hint_confirnm_password">Confirme su Contraseña</string>
+    <string name="btn_login">Ingresar</string>
+    <string name="btn_signup">Registrarme</string>
+    <string name="btn_create_user">Crear usuario</string>
+    <string name="str_bienvenido">Bienvenid@</string>
+    <string name="btn_EscanearTel">Escanear Telefono</string>
+    <string name="btn_AdminClaves">Administrar mis Contraseñas</string>
+    <string name="tipo_scanner">Selecciona el tipo de escaneo que deseas hacer</string>
+    <string name="escaneo_rapido">Escaneo Rápido</string>
+    <string name="escanear_una_app">Escanear una App</string>
+    <string name="opciones_admin_claves">¿Hola, qué deseas hacer?</string>
+    <string name="generar_contrasena">Generar contraseña</string>
+    <string name="analisar_contrasena">Analisar Contraseña</string>
+    <string name="mes_contrasenas">Mis Contraseñas</string>
+    <string name="analizar">Analizar</string>
+    <string name="contrasena_analizar">Ingresa la contraseña a analizar...</string>
+    <string-array name="aplicaciones_usuario">
+        <item>Nequi</item>
+        <item>BBVA Movil</item>
+        <item>Facebook</item>
+        <item>WhatsApp</item>
+        <item>Mensagería</item>
+        <item>Messenger</item>
+        <item>Galeria</item>
+        <item>Telegram</item>
+    </string-array>
+</resources>
